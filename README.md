@@ -1,4 +1,4 @@
-## Hi there 👋
+## Just some fella trying to learn how to program stuff
 
 <!--
 **HypedBreadLoaf/HypedBreadLoaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
